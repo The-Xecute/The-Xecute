@@ -7,7 +7,8 @@ ____  ___                    __
  \     // __ \_/ ___\|  |  \   __\/ __ \  
  /     \  ___/\  \___|  |  /|  | \  ___/  
 /___/\  \___  >\___  >____/ |__|  \___  > 
-      \_/   \/     \/                 \/  
+      \_/   \/     \/                 \/
+I'm actually a student of Diploma engineering student
 ```
 ## 💫 About Me:
 🎓 So, I'm actually a student of Diploma engineering student (yeah, not exactly a dev major, right? 😂).
