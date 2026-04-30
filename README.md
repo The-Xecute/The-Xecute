@@ -22,7 +22,7 @@ ____  ___                    __
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@the_xecute)
 
 ##  About Me:
-🎓 So, I'm actually a student of Diploma engineering (yeah, not exactly a dev major, right? 😂).
+🎓 So, I'm actually a student of Diploma Engineering (yeah, not exactly a dev major, right? 😂).
 
 🌱 But hey, I'm super hyped about coding, even though I'm still basically a noob!
 
